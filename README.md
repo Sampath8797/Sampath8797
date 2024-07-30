@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sampath8797
-- 👀 I’m interested in CI/CD Pipelines and Automation
+- 👀 I will do IaC, CI/CD Pipelines, and Automation
 - 🌱 I’m currently working as a DevOps Engineer
 - 💞️ I’m looking to collaborate on DevOps Engineers
 - 📫 How to reach me sampathsap8797@gmail.com
